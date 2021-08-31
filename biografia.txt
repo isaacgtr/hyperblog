@@ -1,1 +1,2 @@
 Hola soy isaac y esta es mi biografia de prueba para el curso profesional de git y git-hub en platzi
+Tambien soy programador junior y quiero especializarme en nodejs
