@@ -1,5 +1,0 @@
-Hola soy isaac y esta es mi biografia de prueba para el curso profesional de git y git-hub en platzi
-
-Y sigo avanzando en el curso de git el 5 de septiembre
-
-hola
